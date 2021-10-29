@@ -1,0 +1,2 @@
+vhdl work "counter_up_down.vhd"
+vhdl work "counter_up_down_tb.vhd"
